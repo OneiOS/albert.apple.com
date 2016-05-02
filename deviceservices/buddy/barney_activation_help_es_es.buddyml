@@ -1,0 +1,25 @@
+<xmlui action="replace"><alert cancelButtonTitle="Unlock" />
+    <page>
+        <navigationBar title="blablabla" hidesBackButton="true"></navigationBar>
+		
+        <tableView>
+            <section footer="blablabla" />
+            <section footer=""/>
+            <section footer= "blablabla"/>        
+		   <section>
+ 
+        <buttonRow align="center" label="Try Again" name="tryAgain"/><alert buttonRow="Unlock" />
+		
+       	
+        </section>
+		<section>
+		
+</section>
+		</tableView>
+   
+ 
+ 
+  
+ 
+    </page>
+</xmlui>
